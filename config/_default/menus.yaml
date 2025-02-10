@@ -1,0 +1,28 @@
+main:
+  - name: HOME
+    url: 'https://apx.wilder.wp.computer'
+    weight: 1
+  - name: THI
+    url: 'https://thehumanimperative.wilder.wp.computer'
+    weight: 2
+  - name: CPB
+    url: 'https://corepeacebias.wilder.wp.computer'
+    weight: 3
+  - name: PLF
+    url: 'https://peacelinguafranca.wilder.wp.computer'
+    weight: 4
+  - name: GPD 
+    url: 'https://generalpeacedynamics.wilder.wp.computer'
+    weight: 5
+  - name: CGPS 
+    url: 'https://computationalglobalpeacesystem.wilder.wp.computer'
+    weight: 6
+  - name: TMFP 
+    url: 'https://timemachineforpeace.wilder.wp.computer'
+    weight: 7
+  - name: COMMS
+    url: 'https://conversationcommunicationprotocols.wilder.wp.computer'
+    weight: 8
+  - name: ☮!
+    url: 'https://peacebang.wilder.wp.computer'
+    weight: 9
