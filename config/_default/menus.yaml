@@ -21,7 +21,7 @@ main:
     url: 'https://timemachineforpeace.wilder.wp.computer'
     weight: 7
   - name: COMMS
-    url: 'https://conversationcommunicationprotocols.wilder.wp.computer'
+    url: 'https://conversation.wilder.wp.computer'
     weight: 8
   - name: ☮!
     url: 'https://peacebang.wilder.wp.computer'

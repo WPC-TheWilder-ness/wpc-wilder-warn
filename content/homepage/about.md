@@ -28,6 +28,8 @@ widget:
     # Options: fixed, local, scroll.
     attachment: 
 ---
+[[ UNDER CONSTRUCTION ]]
+
 #### !skullcrossbang :: !sxb
 #### ≡ WATCH YOUR STEP. RISK OF WAR|VIOLENCE|HARM.
 ![skullcrossbang](images/sxb_icon.jpg)
